@@ -3,4 +3,5 @@ I am a PhD candidate at EPF Lausanne, working on complexity theory under Mika GÃ
 
 ## Note on AI
 I am a big proponent of keeping AI use minimal, especially in coding, teaching, and reserach.
-All of the projects below were written and are maintained by myself, without the help of AI. Exceptions are clearly statet.
+All of the projects below were written and are maintained by myself, without the help of AI.
+The few exceptions are clearly labelled as such.
